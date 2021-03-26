@@ -1,0 +1,17 @@
+#header {
+  background: gray;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+}
+
+.search {
+  font-size: large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* img {
+  height: 25px;
+  width: 25px;
+} */
